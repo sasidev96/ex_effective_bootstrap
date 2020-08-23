@@ -13,7 +13,7 @@ defmodule ExEffectiveBootstrap.MixProject do
       compilers: [:phoenix] ++ Mix.compilers(),
       deps: deps(),
       package: package(),
-      source_url: "https://github.com/code-and-effect/ex_effective_bootstrap",
+      source_url: "https://github.com/sasidev96/ex_effective_bootstrap",
       name: "ExEffectiveBootstrap",
       description: "Everything your Phoenix Elixir app needs to use Twitter Bootstrap 4"
     ]
