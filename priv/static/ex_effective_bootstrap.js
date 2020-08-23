@@ -2,7 +2,7 @@
 /*!
  * --------------------------------------------------------------------------
  * ExEffectiveBootstrap
- * https://github.com/code-and-effect/ex_effective_bootstrap/
+ * https://github.com/sasidev96/ex_effective_bootstrap/
  * --------------------------------------------------------------------------
 */
 window.EffectiveForm||(window.EffectiveForm=new n),$(document).ready(window.EffectiveForm.initialize),$(document).on("turbolinks:load",window.EffectiveForm.initialize),$(document).on("effective-form:initialize",(function(e){window.EffectiveForm.initialize(e.currentTarget)}))}])}));

@@ -302,7 +302,7 @@ Unfortunately, Bootstrap 4 dropped support for glyphicons, so we package a combi
 <%= link ["Next", icon("arrow-right")], to: "/", class: "btn btn-primary" %>
 ```
 
-[List of all available icons](https://github.com/code-and-effect/ex_effective_bootstrap/tree/master/priv/icons)
+[List of all available icons](https://github.com/sasidev96/ex_effective_bootstrap/tree/master/priv/icons)
 
 ## Validators
 

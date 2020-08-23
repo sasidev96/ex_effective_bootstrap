@@ -45,7 +45,7 @@ defmodule ExEffectiveBootstrap.MixProject do
       maintainers: ["Code and Effect Inc."],
       licenses: ["MIT"],
       files: ~w(lib priv mix.exs package.json LICENSE.md README.md),
-      links: %{github: "https://github.com/code-and-effect/ex_effective_bootstrap"}
+      links: %{github: "https://github.com/sasidev96/ex_effective_bootstrap"}
     ]
   end
 

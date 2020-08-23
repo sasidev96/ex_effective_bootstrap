@@ -1,7 +1,7 @@
 /*!
  * --------------------------------------------------------------------------
  * ExEffectiveBootstrap
- * https://github.com/code-and-effect/ex_effective_bootstrap/
+ * https://github.com/sasidev96/ex_effective_bootstrap/
  * --------------------------------------------------------------------------
 */
 
